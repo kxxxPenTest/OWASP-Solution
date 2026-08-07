@@ -7,7 +7,7 @@ Locate to Console tab (Google Chrome) / Debugger tab (Firefox).
 
 
 Find the credentials in main.js file. Since we know the Email pattern for the OWASP Juice Shop, Ctrl+F to search the email pattern: @juice-sh.op
-![image]https://github.com/kxxxPenTest/OWASP-Solution/blob/main/Pictures/Exposed_Credentials.png
+![image]/Pictures/Exposed_Credentials.png
 
 Then we will find the two parameters testingUsername= "testing@juice-sh.op" and testingPassword = "xxx".
 
