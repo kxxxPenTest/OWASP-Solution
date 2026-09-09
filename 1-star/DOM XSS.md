@@ -10,4 +10,4 @@ Then paste into the search input field
 
 Output:
 
-![](/Pictures/DOM_XSS_2.png)
+![](/Pictures/DOM_XSS2.png)
