@@ -5,4 +5,5 @@ Copy the following code:
 
 
 Then paste into the search input field
-![](/Pictures/DOM XSS.png)
+![](/Pictures/DOM_XSS.png)
+
