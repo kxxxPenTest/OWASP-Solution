@@ -2,6 +2,7 @@
 
 ## Method 1
 Open Side Menu, select About Us, there's a sentence with hyperlink, click it.
+
 ![](/Pictures/confidential_document1.png)
 
 Observe that we have entered a file name called ```legal.md``` in the directory ```ftp```.
