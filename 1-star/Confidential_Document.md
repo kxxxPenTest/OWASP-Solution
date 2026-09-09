@@ -15,6 +15,7 @@ Looks like ```aquisitions.md``` is the confidential document. Click it
 ![](/Pictures/confidential_document4.png)
 
 Yeah found it!
+
 ![](/Pictures/confidential_document5.png)
 
 Done!
