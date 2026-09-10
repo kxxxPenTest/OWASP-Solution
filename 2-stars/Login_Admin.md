@@ -7,6 +7,7 @@ SQL Injection Payload:
 ![](/Pictures/admin_login.png)
 
 Done
+
 ![](/Pictures/admin_login2.png)
 
 
